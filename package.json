@@ -1,0 +1,15 @@
+{
+  "name": "tribal",
+  "version": "1.0.0",
+  "description": "The tribal address system, permutation of three-words",
+  "main": "index.js",
+  "repository": "https://github.com/retroverse/tribal-address-system",
+  "author": "retroverse <ebreakey@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "an-array-of-english-words": "^1.3.1",
+    "lerp": "^1.0.3",
+    "lodash": "^4.17.4"
+  }
+}
